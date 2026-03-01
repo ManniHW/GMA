@@ -1,0 +1,62 @@
+# Unity generierte Ordner
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Memory-Map Dateien
+*.memorymap
+
+# Asset-Imports
+[Aa]ssets/AssetStoreTools*
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.idea/
+
+# Unity3D generierte Meta-Dateien (fuer Ordner)
+# WICHTIG: .meta Dateien fuer Assets NICHT ignorieren!
+
+# OS-Dateien
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+!Assets/**/*.dll
+
+# Crashlogs
+crashlytics-build.properties
+sysinfo.txt
+crash.dmp
+
+# Plastic SCM
+*.ignore
+*.orig
+
+# TextMesh Pro
+[Aa]ssets/TextMesh*Pro/
