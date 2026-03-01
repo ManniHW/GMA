@@ -1,42 +1,37 @@
-Titel und Übersicht:
-Man leitet eine Umzugs Firma mit seinen Freunden und muss Häuser Aus/einräumen in einer großen Stadt 
-Genre:
-Koop/Multiplayer
-Die Spielwelt:
-Eine große Stadt mit verschiedenen vierteln
-Man muss zu orten hinfahren, um Upgrades zu kaufen
-Der Gameplay Loop:
-Man nimmt Aufträge via PC ingame an
-Schwere Möbel zu tragen, erfordert Teamarbeit 
-Die Möbel müssen passend in die Fahrzeuge geräumt werden da sonst sie rausfallen können
-Man muss aufpassen, wie man fährt da es Hindernisse auf der Straße gibt
-Die Möbel müssen nach den ausräumen ins neue Haus geräumt werden
-Vom Geld, das man bekommt, kann man sich Upgrades oder Fahrzeuge kaufen
+# GMA - Umzugsfirma Simulator
 
-Das Schadens System:
-Starke Aufprälle können den Wert von Objekten mindern, dass vom Lohn am Ende abgezogen wird 
-Das Welten System:
-Wenn man genügen Geld angesammelt hat kann man in eine andere Stadt ziehen und andere Aufträge nehmen
+Man leitet eine Umzugsfirma mit seinen Freunden und muss Haeuser aus- und einraeumen in einer grossen Stadt.
 
-Planning:
-Phase 1:
-Auto Erstellen
-Trage System Erstellen
-Boxensystem Erstellen
-Spawner für boxen erstellen
-Phase 2:
-Geldsystem
-Erkennungssystem bei Häusern für boxen erstellen
-Phase 3:
-Auftragssystem
-Schaden System
-Phase 4:
-Auto Kauf System
+**Genre:** Koop / Multiplayer
 
-Phase 5:
-Karte Erweitern
-Möbel Erweitern
+## Die Spielwelt
 
+- Eine grosse Stadt mit verschiedenen Vierteln
+- Man muss zu Orten hinfahren, um Upgrades zu kaufen
 
- 
+## Der Gameplay Loop
 
+1. Man nimmt Auftraege via PC ingame an
+2. Schwere Moebel zu tragen erfordert Teamarbeit
+3. Die Moebel muessen passend in die Fahrzeuge geraeumt werden, da sie sonst rausfallen koennen
+4. Man muss aufpassen, wie man faehrt, da es Hindernisse auf der Strasse gibt
+5. Die Moebel muessen nach dem Ausraeumen ins neue Haus geraeumt werden
+6. Vom Geld, das man bekommt, kann man sich Upgrades oder Fahrzeuge kaufen
+
+## Schadens-System
+
+Starke Aufpraelle koennen den Wert von Objekten mindern, was vom Lohn am Ende abgezogen wird.
+
+## Welten-System
+
+Wenn man genuegend Geld angesammelt hat, kann man in eine andere Stadt ziehen und andere Auftraege annehmen.
+
+## Planung
+
+| Phase | Aufgaben | Status |
+|-------|----------|--------|
+| 1 | Auto erstellen, Trage-System, Boxen-System, Spawner fuer Boxen | Fertig |
+| 2 | Geld-System, Erkennungssystem bei Haeusern fuer Boxen | In Arbeit |
+| 3 | Auftrags-System, Schaden-System | Geplant |
+| 4 | Auto-Kauf-System | Geplant |
+| 5 | Karte erweitern, Moebel erweitern | Geplant |
