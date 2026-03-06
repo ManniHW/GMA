@@ -45,7 +45,7 @@ Wenn man genuegend Geld angesammelt hat, kann man in eine andere Stadt ziehen un
 - [x] 🐌 Speed- und Maus-Abzug je nach Gewicht
 - [x] 💡 Highlight-System (weiss = hebbar, rot = zu schwer)
 - [x] 🪨 Schwere Objekte schleifen ueber den Boden
-- [ ] 🧱 Gehaltene Objekte gleiten nicht durch Waende (Kollisions-Fix)
+- [x] 🧱 Gehaltene Objekte gleiten nicht durch Waende (Kollisions-Fix)
 
 **Boxen & Spawner:**
 - [x] 📦 Drei Box-Typen: Light (3kg), Medium (10kg), Heavy (16kg)
@@ -55,19 +55,19 @@ Wenn man genuegend Geld angesammelt hat, kann man in eine andere Stadt ziehen un
 **Spieler:**
 - [x] 🏃 WASD-Bewegung + Maus-Steuerung
 - [x] 🦘 Springen
-- [ ] 🏃‍♂️ Sprint (Shift = schneller laufen)
+- [x] 🏃‍♂️ Sprint (Shift = schneller laufen)
 
 ### 💰 Phase 2 - Geld & Haeuser
 
-- [ ] 🪙 Geld-Anzeige im UI (einfacher Zaehler)
-- [ ] 🏠 Haeuser mit Lade-/Entladezonen (Trigger-Bereiche)
-- [ ] ✅ Boxen-Zaehler: erkennt ob alle Boxen abgeliefert wurden
-- [ ] 🧾 Auftrag abschliessen = Geld bekommen
-- [ ] 🎯 Erster Test-Auftrag (ein Haus → anderes Haus)
+- [x] 🪙 Geld-Anzeige im UI (einfacher Zaehler)
+- [x] 🏠 Haeuser mit Lade-/Entladezonen (Trigger-Bereiche)
+- [x] ✅ Boxen-Zaehler: erkennt ob alle Boxen abgeliefert wurden
+- [x] 🧾 Auftrag abschliessen = Geld bekommen
+- [x] 🎯 Erster Test-Auftrag (ein Haus → anderes Haus)
 
 ### 📋 Phase 3 - Auftraege & Schaden
 
-- [ ] 💻 Ingame-PC zum Auftraege annehmen
+- [x] 💻 Ingame-PC zum Auftraege annehmen
 - [ ] 📝 Auftrags-Liste mit verschiedenen Schwierigkeiten
 - [ ] 💥 Schadens-Berechnung bei Aufprall (mindert Box-Wert)
 - [ ] 📊 Lohn-Abrechnung am Ende (Basis-Lohn minus Schaden)
@@ -85,3 +85,4 @@ Wenn man genuegend Geld angesammelt hat, kann man in eine andere Stadt ziehen un
 - [ ] 🔊 Sound-Effekte (Motor, Aufheben, Werfen, Kollision)
 - [ ] 🎵 Hintergrundmusik
 - [ ] 👥 Koop-Tragen (zwei Spieler tragen ein schweres Objekt zusammen)
+
